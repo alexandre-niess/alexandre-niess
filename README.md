@@ -1,6 +1,4 @@
-<div style="height: 50%; overflow: hidden;">
-  [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-</div>
+[![MasterHead]([https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5))]
 <h1 align="center">Hi 👋, I'm Alexandre Niess</h1>
 <h3 align="center">Estudante de Ciências da Computação - Computer Science Student</h3>
 img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Og8L6NGjDQzFm"
