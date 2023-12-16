@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Alexandre Niess</h1>
 <h3 align="center">Estudante de Ciências da Computação - Computer Science Student</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/Og8L6NGjDQzFm">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Og8L6NGjDQzFm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrefersoa&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrefersoa" /> </p>
 
