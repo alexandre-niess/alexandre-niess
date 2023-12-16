@@ -14,14 +14,8 @@
 - Interested in learning more and more
 - 🎨 Experiência na área de Design Gráfico e UI/UX
 - Experience in Graphic Design and UI/UX
-- Proeficiência linguística:
-- português
-- espanhol (básico)
-- inglês (avançado, nível B2)
-
-- Linguitic proficiency: portuguese (native)
-- Spanish (basic)
-- English: (advanced, B2 level)
+- Proeficiência linguística: português, espanhol (básico), inglês (avançado, nível B2)
+- Linguitic proficiency: portuguese (native), Spanish (basic), English: (advanced, B2 level)
 
 <h3 align="left">Entre em contato - Get in touch:</h3>
 <p align="left">
