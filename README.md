@@ -1,12 +1,21 @@
 <div align="center">
- 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width=auto>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="auto">
 </div>
+
 <h1 align="center">Olá 👋, sou Alexandre Niess!</h1>
 <h3 align="center">Estudante de Ciências da Computação - Computer Science Student</h3>
+
+<div align="center">
+  <a href="https://alexandre-niess.github.io/SitePortifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-37a779?style=for-the-badge" alt="Portfólio" />
+  </a>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Og8L6NGjDQzFm/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrefersoa&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrefersoa" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=alexandrefersoa&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrefersoa" />
+</p>
 
 - 🌱 No momento estou aprendendo **Java** na PUC Minas
 - At the moment, learning **Java** at PUC Minas
@@ -19,14 +28,16 @@
 
 <h3 align="left">Entre em contato - Get in touch:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexandre-niess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-niess" height="30" width="40" /></a>
-<a href="https://www.behance.net/alexandrefersoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alexandrefersoa" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alexandre-niess" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-niess" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/alexandrefersoa" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alexandrefersoa" height="30" width="40" />
+  </a>
 </p>
 
-
- 
 <h3 align="left">Linguagens e Ferramentas - Languages and Tools:</h3>
-<p align="left"> <p align="left">
+<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
@@ -61,14 +72,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
- </p>
 <br>
 
 <div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefersoa&show_icons=true&locale=en&layout=compact" alt="alexandrefersoa" /><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=alexandrefersoa&show_icons=true&locale=en" alt="alexandrefersoa" /><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrefersoa&" alt="alexandrefersoa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrefersoa&show_icons=true&locale=en&layout=compact" alt="alexandrefersoa" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrefersoa&show_icons=true&locale=en" alt="alexandrefersoa" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrefersoa&" alt="alexandrefersoa" />
 </div>
